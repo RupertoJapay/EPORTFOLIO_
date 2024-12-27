@@ -25,4 +25,4 @@ If you would like to replicate or contribute to this ePortfolio, follow the step
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ePortfolio.git
+   git clone https://github.com/EupertoJapay/EPORTFOLIO_.git
